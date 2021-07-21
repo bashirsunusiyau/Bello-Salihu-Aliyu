@@ -45,7 +45,6 @@
           padding: 20px, 30px;
           text-decoration:none;
           }
-        
          li:hover{
            background-color:rgb(90,40,35,0.939);
           }
