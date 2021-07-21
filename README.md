@@ -1,7 +1,7 @@
 <!Doctype>
 <html>
 <head>
-      <tittle>pharmacy</tittle>
+      <tittle>consultancy</tittle>
       <link rel="stylesheet "type=" text/CSS"href="style.CSS">
       <link rel="preconnect "href=https://fonts.gstatic.com">
       <link href=" https://fonts.googleapis.com/css2?family=viaoda+libre&display=swap"rel="stylesheet">
@@ -64,7 +64,7 @@
            </ul>
            </hr>
                 </header>
-              <h1>ORDER YOUR DRUGS HERE</h1>
+              <h1>Order your drugs here!</h1>
               <form>
                 <h2>
                 <label for=name>Name:</label>
@@ -85,7 +85,7 @@
                 <input type="radio" name="devices" value="urgent">Urgent,
                 <input type="radio" name="devices" value="critical">Critical
                 <br>
-                <p>Give a brief explanation about your ailment.</p>
+                <p>give an explanation for your ailment.</p>
                 <text area rows="10" cols="30" name="text"></text area>
                   </h4>
                     <br>
